@@ -73,10 +73,10 @@ GitHub (Remote):                    Your Computer (Local):
 3. **Ground rules:** What should everyone do before starting to code?
 
 Write down your decisions here (just for your team's reference):
-- Teammate 1: _________________ (working on Hero Section)
-- Teammate 2: _________________ (working on First Profile)  
-- Teammate 3: _________________ (working on Second Profile)
-- Teammate 4: _________________ (working on Stats & Footer)
+- Teammate 1: Caleb (working on Hero Section)
+- Teammate 2: James (working on First Profile)  
+- Teammate 3: Lea (working on Second Profile)
+- Teammate 4: Kenny (working on Stats & Footer)
 - Branch naming: _________________
 
 ---
