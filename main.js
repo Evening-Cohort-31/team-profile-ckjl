@@ -2,6 +2,14 @@
 console.log("Welcome to your team profile page!")
 
 // Teammate 2: Add your JavaScript here
+function showFunFact(memberId) {
+    const factElement = document.getElementById('fact1');
+    if (factElement.style.display === 'none') {
+        factElement.style.display = 'block';
+    } else {
+        factElement.style.display = 'none';
+    }
+}
 
 // Teammate 3: Add your JavaScript here
 function showFunFact(memberId) {
